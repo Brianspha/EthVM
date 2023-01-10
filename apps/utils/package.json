@@ -13,7 +13,7 @@
     "axios": "^0.18.0",
     "bignumber.js": "~8.0.2",
     "commander": "^2.20.0",
-    "convict": "~4.4.1",
+    "convict": "~6.2.4",
     "long": "^4.0.0",
     "node-biginteger": "^0.0.10",
     "node-rdkafka": "~2.5.1",
